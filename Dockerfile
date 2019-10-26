@@ -1,4 +1,4 @@
-FROM node:10.15.3-alpine
+FROM node:erbium-alpine
 
 # Contains only necessary libs from oracle instant client: 
 # "*/libociei.so */libons.so */libnnz12.so */libclntshcore.so.12.1 */libclntsh.so.12.1"
@@ -14,5 +14,5 @@ RUN echo "http://dl-cdn.alpinelinux.org/alpine/v3.8/main" > /etc/apk/repositorie
     && cd /usr/lib \
     && tar xf ${CLIENT_FILENAME} \
     && ln -s /usr/lib/libclntsh.so.12.1 /usr/lib/libclntsh.so \
-    && rm ${CLIENT_FILENAME} \
+    && rm ${CLIENT_FILENAME}
 
