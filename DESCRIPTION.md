@@ -3,7 +3,7 @@ Simple and lightweight Alpine Linux build with NodeJS and Oracle Instant Client 
 
 ## Available Tags
 
-* [```1.4.0-stage```, ```14.5.0-alpine3.12```, ```latest```](https://github.com/dnorio/oracle-node-alpine/tree/8549b389da3bc43219ee54d59eb93a1992b4b0f0) (2020-07): NodeJS 14.5.0 and Alpine Linux 3.12. Suitable for use with npm package oracledb@4.2.0;
+* [```1.4.0-stage```, ```14.5.0-alpine3.12```, ```latest```](https://github.com/dnorio/oracle-node-alpine/tree/9558dbefd634763241ae47783865db1dc4146c45) (2020-07): NodeJS 14.5.0 and Alpine Linux 3.12. Suitable for use with npm package oracledb@4.2.0;
 
 * [```1.3.0```, ```12.16.1-alpine3.11```](https://github.com/dnorio/oracle-node-alpine/tree/8549b389da3bc43219ee54d59eb93a1992b4b0f0) (2020-03): NodeJS 12.16.1 and Alpine Linux 3.11. Suitable for use with npm package oracledb@4.2.0;
 
