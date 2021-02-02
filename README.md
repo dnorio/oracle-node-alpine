@@ -3,11 +3,17 @@ Simple and lightweight Alpine Linux build with NodeJS and Oracle Instant Client 
 
 ## Recommended Tags
 
-* [```12.20.0-alpine3.12```, ```latest```](https://github.com/dnorio/oracle-node-alpine/commit/f18a6fc95fb76265ac249509f915aab8d2c92ae9) (2020-12): NodeJS 12.20.0 and Alpine Linux 3.12. Suitable for use with npm package oracledb@4.2.0 and oracledb@5.0.0;
+* [```14.15.4-alpine3.12```, ```latest```](https://github.com/dnorio/oracle-node-alpine/commit/c3b09aa64a3a6cac4518de8913d1ee5f362f137d) (2021-02): NodeJS 14.15.4 and Alpine Linux 3.12. Suitable for use with npm package oracledb@5.0.0;
 
-* [```10.23.0-alpine3.11```](https://github.com/dnorio/oracle-node-alpine/commit/1b93894a620bda4c0015d334c8b3be2f40167c40) (2020-12): NodeJS 10.23.0 and Alpine Linux 3.11. Suitable for use with npm package oracledb@3.1.2;
+* [```12.20.1-alpine3.12```](https://github.com/dnorio/oracle-node-alpine/commit/10f7d1d5201268ba1db827e30947a68530762680) (2021-02): NodeJS 12.20.0 and Alpine Linux 3.12. Suitable for use with npm package oracledb@4.2.0 and oracledb@5.0.0;
 
 ## Other Available Tags
+
+* [```10.23.2-alpine3.11```](https://github.com/dnorio/oracle-node-alpine/commit/6a68bd6c213289eaac13cae6bce19aa642cc2d47) (2021-02): NodeJS 10.23.2 and Alpine Linux 3.11. Suitable for use with npm package oracledb@3.1.2;
+
+* [```12.20.0-alpine3.12```](https://github.com/dnorio/oracle-node-alpine/commit/f18a6fc95fb76265ac249509f915aab8d2c92ae9) (2020-12): NodeJS 12.20.0 and Alpine Linux 3.12. Suitable for use with npm package oracledb@4.2.0 and oracledb@5.0.0;
+
+* [```10.23.0-alpine3.11```](https://github.com/dnorio/oracle-node-alpine/commit/1b93894a620bda4c0015d334c8b3be2f40167c40) (2020-12): NodeJS 10.23.0 and Alpine Linux 3.11. Suitable for use with npm package oracledb@3.1.2;
 
 * [```14.15.1-alpine3.12-beta.1```](https://github.com/dnorio/oracle-node-alpine/commit/7bacc40ce5aa67e5fcca4bba58fbbb66f518af48) (2020-12): NodeJS 14.15.1 and Alpine Linux 3.12. May be suitable for use with npm package oracledb@5.0.0, but I haven't tested with all my kubernetes services yet;
 
