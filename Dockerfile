@@ -1,4 +1,4 @@
-FROM node:12.16.1-alpine3.11
+FROM node:20.5.1-alpine3.17
 
 # Contains only necessary libs from oracle instant client: 
 # "*/libociei.so */libons.so */libnnz12.so */libclntshcore.so.12.1 */libclntsh.so.12.1"
